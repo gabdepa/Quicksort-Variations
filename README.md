@@ -1,5 +1,5 @@
 # Quicksort-Variations
-Este pacote contém 17 arquivos:
+This repository contains 17 files
 
 - makefile: A makefile used to compile the program
 
